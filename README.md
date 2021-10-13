@@ -5,7 +5,7 @@ Knob control for Blazor
 
 <p align="center">
   <a href="https://vue3openlayers.netlify.app/" target="_blank" title="Vue OpenLayers Homepage">
-    <img width="100" src="https://raw.githubusercontent.com/MelihAltintas/Blazor-Knob/main/knob.png"><br />
+    <img  src="https://raw.githubusercontent.com/MelihAltintas/Blazor-Knob/main/knob.png"><br />
   </a>
 </p>
 
