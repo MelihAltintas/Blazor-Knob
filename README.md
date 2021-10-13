@@ -18,6 +18,8 @@ Min | Number | Minimum value of the control | 0
 Max | Number | Maximum value of the control | 100
 Step | Number | Smallest increment the value can change by | 1
 Disabled | Boolean | Set to true to disable the knob | false
+ReadOnly | Boolean | Set to true to readonly the knob | false
+ShowValue | Boolean | Set to false to hide the value | true
 Size | Number | Visual size of the control in `px` (or `%` if `responsive` is `true`) | 100
 ValueColor | String | Color of the value arc | #409eff
 RangeColor | String | Color of the range | #dcdfe6
