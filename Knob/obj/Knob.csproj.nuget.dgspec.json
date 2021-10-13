@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asahan\\source\\repos\\Knob\\Knob\\Knob.csproj": {}
+    "D:\\Blazor-Knob\\Knob\\Knob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asahan\\source\\repos\\Knob\\Knob\\Knob.csproj": {
+    "D:\\Blazor-Knob\\Knob\\Knob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asahan\\source\\repos\\Knob\\Knob\\Knob.csproj",
+        "projectUniqueName": "D:\\Blazor-Knob\\Knob\\Knob.csproj",
         "projectName": "Knob",
-        "projectPath": "C:\\Users\\asahan\\source\\repos\\Knob\\Knob\\Knob.csproj",
+        "projectPath": "D:\\Blazor-Knob\\Knob\\Knob.csproj",
         "packagesPath": "C:\\Users\\asahan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asahan\\source\\repos\\Knob\\Knob\\obj\\",
+        "outputPath": "D:\\Blazor-Knob\\Knob\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asahan\\AppData\\Roaming\\NuGet\\NuGet.Config",
